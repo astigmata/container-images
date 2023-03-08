@@ -1,0 +1,4 @@
+collections:
+  - name: community.grafana
+    version: 1.6.0
+    src: https://github.com/ansible-collections/community.grafana.git
