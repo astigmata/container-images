@@ -1,1 +1,0 @@
-docker build . -f debian.Dockerfile -t awx-ee-debian:v1.0.0
